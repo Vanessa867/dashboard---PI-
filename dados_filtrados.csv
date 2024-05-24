@@ -1,0 +1,27 @@
+Unnamed: 0,Alteração de nomenclatura ou metodologia de cálculo,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23
+110,IN_LIXO_ENTERRA,Destinação do lixo - Enterra,Num,1,"0 - Não
+1 - Sim",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,
+111,IN_LIXO_DESTINO_FINAL_PUBLICO,Destinação do lixo - Leva a uma destinação final financiada pelo poder público,Num,1,"0 - Não
+1 - Sim",n,n,n,n,n,n,n,n,n,n,n,n,s,s,s,s,s,
+112,IN_LIXO_DESCARTA_OUTRA_AREA,Destinação do lixo - Descarta em outra área,Num,1,"0 - Não
+1 - Sim",n,n,n,n,n,n,n,n,n,n,n,n,s,s,s,s,s,
+113,IN_LIXO_JOGA_OUTRA_AREA,Destinação do lixo - Joga em outra área,Num,1,"0 - Não
+1 - Sim",s,s,s,s,s,s,s,s,s,s,s,s,n,n,n,n,n,
+114,IN_LIXO_OUTROS,Destinação do lixo - Outros,Num,1,"0 - Não
+1 - Sim",s,s,s,s,s,s,s,s,s,s,s,s,n,n,n,n,n,
+115,IN_LIXO_RECICLA,Tratamento do lixo/resíduos que a escola realiza - Reciclagem,Num,1,"0 - Não
+1 - Sim",s,s,s,s,s,s,s,s,s,s,s,s,n,n,n,n,n,
+116,IN_TRATAMENTO_LIXO_SEPARACAO,Tratamento do lixo/resíduos que a escola realiza - Separação do lixo/resíduos,Num,1,"0 - Não
+1 - Sim
+9 - Não informado",n,n,n,n,n,n,n,n,n,n,n,n,s,s,s,s,s,
+117,IN_TRATAMENTO_LIXO_REUTILIZA,Tratamento do lixo/resíduos que a escola realiza - Reaproveitamento/reutilização,Num,1,"0 - Não
+1 - Sim
+9 - Não informado",n,n,n,n,n,n,n,n,n,n,n,n,s,s,s,s,s,
+118,IN_TRATAMENTO_LIXO_RECICLAGEM,Tratamento do lixo/resíduos que a escola realiza - Reciclagem,Num,1,"0 - Não
+1 - Sim
+9 - Não informado",n,n,n,n,n,n,n,n,n,n,n,n,s,s,s,s,s,
+119,IN_TRATAMENTO_LIXO_INEXISTENTE,Tratamento do lixo/resíduos que a escola realiza - Não faz tratamento,Num,1,"0 - Não
+1 - Sim
+9 - Não informado",n,n,n,n,n,n,n,n,n,n,n,n,s,s,s,s,s,
+120,IN_ALMOXARIFADO,Dependências físicas existentes e utilizadas na escola - Almoxarifado,Num,1,"0 - Não
+1 - Sim",n,n,n,n,n,s,s,s,s,s,s,s,s,s,s,s,s,
